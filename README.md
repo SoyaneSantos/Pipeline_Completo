@@ -1,4 +1,4 @@
-# Projeto de Coleta de Cotações — Jornada de Dados
+# Projeto de Coleta de Cotações — Curso Jornada de Dados
 
 Este projeto faz parte da **Jornada de Dados** e tem como objetivo coletar, consolidar e salvar cotações em tempo real de **Bitcoin** e de **commodities** selecionadas, utilizando APIs públicas e a biblioteca `yfinance`.
 
