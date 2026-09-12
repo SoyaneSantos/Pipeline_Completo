@@ -90,5 +90,5 @@ Os dados coletados serão utilizados para:
 
 ## ℹ️ Mais Informações
 
-Este projeto faz parte da **Jornada de Dados**.
-Para mais informações, acesse: [www.suajornadadedados.com.br](http://www.suajornadadedados.com.br)
+Este projeto faz parte das aulas do curso **Jornada de Dados**.
+ [www.suajornadadedados.com.br](http://www.suajornadadedados.com.br)
